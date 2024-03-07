@@ -33,7 +33,7 @@ body {
 
 .navbar {
   position: fixed;
-  width: 100%;
+  width: 100vw;
   bottom: 30px;
   z-index: 1000;
 }
